@@ -1,4 +1,4 @@
-# 🛍️ Retail & Marketing Analytics
+# 🛍️ Customer & Marketing Analytics
 
 > End-to-end data analytics project analyzing 10,000+ retail transactions to identify customer segments, track business performance, and surface actionable insights.
 
