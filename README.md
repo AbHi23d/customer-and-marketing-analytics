@@ -4,7 +4,7 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square)](https://jupyter.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-Clustering-green?style=flat-square)](https://scikit-learn.org)
 
-Hi! Thanks for stopping by. This is an end-to-end analytics project I built to answer a question that matters to any retail business: *who are your customers, how do they behave, and what should you do about it?*
+Hi, Thanks for stopping by. This is an end-to-end analytics project I built to answer a question that matters to any retail business: *who are your customers, how do they behave, and what should you do about it?*
 
 I worked with a synthetic dataset of 10,000 transactions across 1,986 customers and ran it through the full analytics pipeline, taking it from raw data all the way to customer segments, retention analysis, and a KPI framework with actionable recommendations.
 
