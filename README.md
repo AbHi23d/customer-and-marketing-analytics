@@ -52,17 +52,6 @@ I used a synthetic retail dataset modeled on real-world transaction structures. 
 
 ---
 
-## 💻 Running it locally
-
-```bash
-git clone https://github.com/AbHi23d/customer-and-marketing-analytics.git
-cd customer-and-marketing-analytics
-pip install -r requirements.txt
-jupyter notebook Retail_Marketing_Analytics.ipynb
-```
-
----
-
 ## 🛠️ Tech stack
 
 Python · pandas · numpy · scikit-learn · matplotlib · seaborn · plotly
