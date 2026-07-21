@@ -34,7 +34,7 @@ Here are the key findings from the analysis:
 
 ## 📋 Inside the analysis
 
-The analysis runs in a single Jupyter notebook (`Retail_Marketing_Analytics.ipynb`). Here's what each section is actually trying to answer:
+The analysis runs in a single Jupyter notebook ([Retail_Marketing_Analytics.ipynb](./Retail_Marketing_Analytics.ipynb)). Here's what each section is actually trying to answer:
 
 - **Data Cleaning & Feature Engineering**: I built a clean, analysis-ready dataset from raw transaction records. This involved engineering 15+ features (such as delivery performance tiers, repeat customer flags, and sales quartiles) to provide the derived signals needed for meaningful downstream segmentation.
 - **Exploratory Analysis**: Establishing a baseline was the first step to understanding how revenue distributes across categories, regions, and time. Because sales are relatively stable month-over-month, any segment-level differences we find are much more telling.
