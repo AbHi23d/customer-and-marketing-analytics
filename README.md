@@ -27,7 +27,7 @@ Here are the key findings from the analysis:
 - K-Means clustering condensed this into 2 actionable segments: **VIP Customers** (924 customers, $714K revenue) and **At Risk** (1,062 customers, $365K revenue)
 
 **Retention**
-- 89.12% of customers remain active overall (haven't churned), while month-over-month cohort retention holds in a tighter 27–35% band — the first measures the whole customer base, the second tracks how consistently a given month's new customers keep coming back
+- 89.12% of customers remain active overall (haven't churned), while month-over-month cohort retention holds in a tighter 27–35% band - the first measures the whole customer base, the second tracks how consistently a given month's new customers keep coming back
 - Average recency: 81.6 days overall — VIP customers average ~46 days between purchases, while the At Risk cluster averages 113 days
 
 ---
